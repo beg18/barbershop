@@ -32,7 +32,7 @@ Thumbs.db
 .svn
 bower_components
 dist
-build
+src
 
 # Node.JS
 node_modules
